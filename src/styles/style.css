@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+}
+
+header .our-mission {
+  background-image: url("/src/images/background.jpeg");
+}
+
+section .locations-section {
+  background-image: url("/src/images/locations.jpeg");
+}
