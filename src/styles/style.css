@@ -121,7 +121,8 @@ main {
   margin: 0;
   padding: 0;
 }
-footer h2 {
+footer h1 {
+  font-size: 33px;
   margin: 10px 0 40px 0;
 }
 footer p {
